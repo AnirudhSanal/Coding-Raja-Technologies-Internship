@@ -1,0 +1,36 @@
+/*
+#cv-form{
+     display:none; 
+}
+*/
+#cv-template{
+    display:none;
+}
+.myimg{
+    border:1px solid black;
+    border-radius: 50%;
+    width: 200px;   
+}
+.background{
+    background-color:rgba(241, 241, 241, 0.364);
+}   
+body{
+    background-color: #58acbf;
+}
+    
+.ab{
+    background-color:#b5b8ab;
+}
+.form-control{
+    display: block;
+    width: 100%; /* THIS */
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555555; /* THIS */
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #ccc; /* THIS */
+    border-radius: 4px; /* THIS */
+  }
